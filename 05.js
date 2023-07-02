@@ -44,6 +44,6 @@ const stdev = function(arr) {
   return round(stdevValue);
 
 };
-
+ 
 // Don't change below:
 module.exports = { stdev };

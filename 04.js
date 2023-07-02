@@ -37,7 +37,7 @@ const mode = function(arr) {
 
   return Number(modeNumber);
 };
-
+ 
 // Don't change below:
 
 module.exports = { mode };

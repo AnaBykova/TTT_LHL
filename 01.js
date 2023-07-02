@@ -72,6 +72,6 @@ const mean = function(arr) {
     return average;
   }
 };
-
+ 
 // Don't change below:
 module.exports = { count, sum, mean };

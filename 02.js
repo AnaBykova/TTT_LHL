@@ -65,7 +65,7 @@ const range = function(arr) {
   let difference = max(arr) - min(arr);
   return difference;
 };
-
+ 
 // Don't change below:
 
 module.exports = { min, max, range };
